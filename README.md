@@ -45,7 +45,7 @@ Step 5 - Confirm Logs from Kibana
 <img width="1439" alt="Screen Shot 2022-09-12 at 1 24 35 AM" src="https://user-images.githubusercontent.com/84711996/189540858-a705bd82-76c2-44e1-9ed9-5973b3729061.png">
 
 - Then, go to Discover tab to check the logs. As you can see, logs are properly collected into the Elasticsearch + Kibana, via Fluentd.
-<img width="1439" alt="Screen Shot 2022-09-12 at 1 24 35 AM" src="https://user-images.githubusercontent.com/84711996/189540898-4de8fe85-f9a9-4a2d-ad65-d14908d77d1b.png">
+<img width="1438" alt="Screen Shot 2022-09-12 at 1 25 35 AM" src="https://user-images.githubusercontent.com/84711996/189540999-18a39b1b-9163-4536-b10a-5eb5d9218d0d.png">
 
 Ref:
 - https://trino.io/docs/current/admin/jmx.html
